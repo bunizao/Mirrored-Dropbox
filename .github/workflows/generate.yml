@@ -22,7 +22,7 @@ jobs:
           python-version: '3.x' 
 
       - name: Install dependencies
-        run: pip install pyyaml
+        run: pip install pyyaml requests
 
       - name: Generate YAML file from modules.list
         run: |
