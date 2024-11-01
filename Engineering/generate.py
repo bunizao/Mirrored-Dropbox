@@ -2,7 +2,6 @@ import os
 import re
 import yaml
 import requests
-import dropbox
 
 # Create /data directory
 if not os.path.exists('data'):
