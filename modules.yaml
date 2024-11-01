@@ -2,18 +2,40 @@
   url: https://raw.githubusercontent.com/chavyleung/scripts/master/box/rewrite/boxjs.rewrite.surge.sgmodule
 - name: ' iRingo: Location'
   url: https://raw.githubusercontent.com/bunizao/Mirrored/main/iRingo/sgmodule/Location.sgmodule
+- name: ' iRingo: ️ Maps'
+  url: https://raw.githubusercontent.com/bunizao/Mirrored/main/iRingo/sgmodule/Maps.sgmodule
 - name: ' iRingo: ⭕ Siri β'
   url: https://raw.githubusercontent.com/bunizao/Mirrored/main/iRingo/sgmodule/Siri.V2.beta.sgmodule
 - name: ' iRingo: ⭕ Siri β'
   url: https://raw.githubusercontent.com/bunizao/Mirrored/main/iRingo/sgmodule/Siri.V2.macOS.beta.sgmodule
+- name: ' iRingo: News'
+  url: https://raw.githubusercontent.com/bunizao/Mirrored/main/iRingo/sgmodule/News.sgmodule
+- name: ' iRingo: TV app'
+  url: https://raw.githubusercontent.com/bunizao/Mirrored/main/iRingo/sgmodule/TV.sgmodule
+- name: ' iRingo: WeatherKit'
+  url: https://raw.githubusercontent.com/bunizao/Mirrored/main/iRingo/sgmodule/WeatherKit.sgmodule
+- name: ' iRingo: ✈ TestFlight'
+  url: https://raw.githubusercontent.com/bunizao/Mirrored/main/iRingo/sgmodule/TestFlight.sgmodule
 - name: 'Fries: Block HTTPDNS'
   url: https://raw.githubusercontent.com/VirgilClyne/GetSomeFries/main/sgmodule/HTTPDNS.Block.sgmodule
 - name: True Surge PRO
   url: https://raw.githubusercontent.com/bunizao/TutuBetterRules/tutu/Surge/module/SurgePro.sgmodule
+- name: '️ DualSubs: Universal'
+  url: https://raw.githubusercontent.com/bunizao/Mirrored/main/DualSubs/Universal.sgmodule
+- name: '️ DualSubs: ▶️ YouTube'
+  url: https://raw.githubusercontent.com/bunizao/Mirrored/main/DualSubs/YouTube.sgmodule
+- name: '️ DualSubs: Netflix'
+  url: https://raw.githubusercontent.com/bunizao/Mirrored/main/DualSubs/Netflix.sgmodule
 - name: AD ByeBye+ 2.x
   url: https://raw.githubusercontent.com/bunizao/Mirrored/main/Chores/sgmodule/All-in-One-2.x.sgmodule
 - name: AD ByeBye 1.x
   url: https://raw.githubusercontent.com/bunizao/TutuBetterRules/tutu/Surge/module/All-in-One.sgmodule
+- name: 'BiliBili: ⚙️ Enhanced'
+  url: https://github.com/BiliUniverse/Enhanced/releases/latest/download/BiliBili.Enhanced.sgmodule
+- name: 'BiliBili: Global'
+  url: https://github.com/BiliUniverse/Global/releases/latest/download/BiliBili.Global.sgmodule
+- name: 'BiliBili: Redirect'
+  url: https://github.com/BiliUniverse/Redirect/releases/latest/download/BiliBili.Redirect.sgmodule
 - name: 'Fries: General Enhanced'
   url: https://raw.githubusercontent.com/VirgilClyne/GetSomeFries/main/sgmodule/General.sgmodule
 - name: 'Fries: General Enhanced'
