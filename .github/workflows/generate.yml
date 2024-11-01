@@ -4,6 +4,8 @@ on:
   push:
     paths:
       - 'modules.list'
+      - 'generate.yml'
+      - 'generate.py'
   workflow_dispatch:
 
 jobs:
