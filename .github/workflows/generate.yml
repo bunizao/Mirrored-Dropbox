@@ -24,7 +24,7 @@ jobs:
 
       - name: Generate YAML file from modules.list
         run: |
-          python generate.py
+          python Engineering/generate.py
 
       - name: Commit and push generated YAML
         run: |
