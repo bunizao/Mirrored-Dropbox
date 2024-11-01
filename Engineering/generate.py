@@ -9,7 +9,7 @@ if not os.path.exists('data'):
 
 modules = {}
 
-with open('module.list', 'r') as f:
+with open('modules.list', 'r') as f:
     urls = [line.strip() for line in f if line.strip()]
 
 for url in urls:
