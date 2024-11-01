@@ -2,7 +2,6 @@ import os
 import re
 import yaml
 import requests
-import dropbox
 
 # 获取 Dropbox 访问令牌
 ACCESS_TOKEN = os.getenv('DROPBOX_ACCESS_TOKEN')
