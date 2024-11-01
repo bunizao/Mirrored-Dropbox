@@ -1,17 +1,17 @@
 - name: BoxJs
   url: https://raw.githubusercontent.com/chavyleung/scripts/master/box/rewrite/boxjs.rewrite.surge.sgmodule
 - name: ' iRingo: Location'
-  url: https://github.com/bunizao/Mirrored/raw/main/iRingo/sgmodule/Location.sgmodule
+  url: https://raw.githubusercontent.com/bunizao/Mirrored/main/iRingo/sgmodule/Location.sgmodule
 - name: ' iRingo: ⭕ Siri β'
-  url: https://github.com/bunizao/Mirrored/raw/main/iRingo/sgmodule/Siri.V2.beta.sgmodule
+  url: https://raw.githubusercontent.com/bunizao/Mirrored/main/iRingo/sgmodule/Siri.V2.beta.sgmodule
 - name: ' iRingo: ⭕ Siri β'
-  url: https://github.com/bunizao/Mirrored/raw/main/iRingo/sgmodule/Siri.V2.macOS.beta.sgmodule
+  url: https://raw.githubusercontent.com/bunizao/Mirrored/main/iRingo/sgmodule/Siri.V2.macOS.beta.sgmodule
 - name: 'Fries: Block HTTPDNS'
   url: https://raw.githubusercontent.com/VirgilClyne/GetSomeFries/main/sgmodule/HTTPDNS.Block.sgmodule
 - name: True Surge PRO
   url: https://raw.githubusercontent.com/bunizao/TutuBetterRules/tutu/Surge/module/SurgePro.sgmodule
 - name: AD ByeBye+ 2.x
-  url: https://github.com/bunizao/Mirrored/raw/main/Chores/sgmodule/All-in-One-2.x.sgmodule
+  url: https://raw.githubusercontent.com/bunizao/Mirrored/main/Chores/sgmodule/All-in-One-2.x.sgmodule
 - name: AD ByeBye 1.x
   url: https://raw.githubusercontent.com/bunizao/TutuBetterRules/tutu/Surge/module/All-in-One.sgmodule
 - name: 'Fries: General Enhanced'
