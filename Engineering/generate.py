@@ -31,10 +31,10 @@ for url in urls:
 
         content = response.text
 
-        # 提取 name
-        match = re.search(r'(?<=#!name=).*', content)
+        # 提取 name，考虑 = 两边的空格
+        match = re.search(r'#!name\s*=\s*(.*)', content)
         if match:
-            name = match.group(0)
+            name = match.group(1)
             original_name = name  # 保存原始的 name
 
             # 处理 name 以符合文件系统要求
